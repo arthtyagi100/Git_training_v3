@@ -2,4 +2,8 @@ This is second file
 
 1 revert commmut
 This is a comparison lecture in file 2
+<<<<<<< Updated upstream
 this is stash lecture in main file
+=======
+this is stash lecture
+>>>>>>> Stashed changes
